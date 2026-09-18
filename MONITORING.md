@@ -22,3 +22,5 @@ the owner so downtime can be addressed quickly.
 - Only the repository owner has write/push access
 - No secrets, API keys, or credentials stored in the codebase
 - Site content contains no sensitive or personal information
+
+- ![Monitoring Dashboard](monitoring-screenshot.png)
